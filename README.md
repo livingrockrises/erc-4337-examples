@@ -8,6 +8,7 @@ The implementation for all commands are located in the [scripts directory](./scr
 
 - Sample contracts: [eth-infinitism/account-abstraction](https://github.com/eth-infinitism/account-abstraction)
 - ZeroDev Kernel contracts: [zerodevapp/kernel](https://github.com/zerodevapp/kernel)
+- Biconomy Modular Account contracts: [bcnmy/scw-contracts](https://github.com/bcnmy/scw-contracts)
 - JS SDK: [userop.js](https://github.com/stackup-wallet/userop.js)
 
 > **🚀 Looking for access to hosted infrastructure to build your Smart Accounts? Check out [stackup.sh](https://www.stackup.sh/)!**
